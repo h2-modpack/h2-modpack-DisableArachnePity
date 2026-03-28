@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Disables Arachne Pity entirely for Anyfear runs.",
     default  = false,
     dataMutation = true,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
